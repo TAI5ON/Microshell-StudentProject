@@ -180,7 +180,7 @@ void help () {
 	printf("#                        %sGrupa: 15%s                          #\n", BOLD_CYAN, BOLD_YELLOW);
 	printf("#                %snumer indeksu: 481871%s                      #\n", BOLD_CYAN, BOLD_YELLOW);
 	printf("#                      %sKontakt: micluc2@st.amu.edu.pl%s       #\n", BOLD_CYAN, BOLD_YELLOW);
-	printf("#                       %sGitHub: https://github.com/TAI5ON%s   #\n", BOLD_CYAN, BOLD_YELLOW);
+	printf("#                       %sGitHub: https://github.com/michal-luczak%s   #\n", BOLD_CYAN, BOLD_YELLOW);
 	printf("#############################################################\n");
 }
 
